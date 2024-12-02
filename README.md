@@ -13,7 +13,7 @@
 
 - 📄 Know about me [https://www.linkedin.com/in/vagner-cordeiro-b68567263/](https://www.linkedin.com/in/vagner-cordeiro-b68567263/)
 
-- ⚡ Fun fact **Parent of a 2 years old princess**
+- ⚡ Fun fact **Parent of a 3 years old princess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
