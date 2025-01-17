@@ -1,11 +1,11 @@
 <h1 align="center">Hello there, I,m Vagner Cordeiro</h1>
-<h3 align="center">A Software Development student</h3>
+<h3 align="center">A FullStack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guinhow" alt="guinhow" /></a> </p>
 
 - 🔭 I’m currently working on **Building my Poortfolio**
 
-- 🌱 I’m currently learning **Javascript and Python**
+- 🌱 I’m currently learning **Javascript, Java and Python**
 
 - 🤝 I’m looking for help with **Programming**
 
